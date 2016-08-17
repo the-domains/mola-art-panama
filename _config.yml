@@ -1,4 +1,4 @@
-typography_spectrum: 0.28522588894702494
+typography_spectrum: 0.9484931987244636
 color:
   brandStrength: 0.4937106929719448
   lightness: 0.4555791534949094
@@ -10,7 +10,7 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
-layout_spectrum: 0.09469583607278764
+layout_spectrum: 0.6113097083289176
 author:
   name: Alejandro
   email: ahepburn03@gmail.com

@@ -4,8 +4,15 @@
         <description><![CDATA[Beautiful Mola Art and Souvenirs]]></description>
         <link>https://thegrid.ai/mola-art-panama/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 23:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 23:31:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mola-art-panama/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a66b176-2ce1-4a90-b992-a7a9f0eb9ce6.jpg">]]></description>
+            <link>https://thegrid.ai/mola-art-panama/a2d3a512-0bac-4d05-9012-1d1fa835ded1/index.html</link>
+            <guid isPermaLink="false">a2d3a512-0bac-4d05-9012-1d1fa835ded1</guid>
+            <pubDate>Wed, 17 Aug 2016 23:30:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39419368-2745-4772-b7f4-a7e121190c7c.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mola-art-panama/32546a2f-c337-496b-8d90-5ba7dd87cf15/index.html</link>
             <guid isPermaLink="false">32546a2f-c337-496b-8d90-5ba7dd87cf15</guid>
             <pubDate>Wed, 17 Aug 2016 01:23:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tropical Mola Hats]]></title>
-            <description><![CDATA[<article><h1>Tropical Mola Hats</h1><p>Mola Hats - $30</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba9b6f1c-8f0f-4117-b344-634fcd53d862.jpg"></article>]]></description>
-            <link>https://thegrid.ai/mola-art-panama/4f7ad7ca-b5e3-4c51-993f-a0705fa464e9/index.html</link>
-            <guid isPermaLink="false">4f7ad7ca-b5e3-4c51-993f-a0705fa464e9</guid>
-            <pubDate>Wed, 17 Aug 2016 00:53:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

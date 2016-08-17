@@ -1,4 +1,3 @@
-layout_spectrum: 0.7489483740646392
 typography_spectrum: 0.5203479579649866
 color:
   brandStrength: 0.9356295268516988
@@ -11,4 +10,6 @@ color:
     - '#FEA800'
     - '#006642'
     - '#BDEBFB'
+layout_spectrum: 0.7489483740646392
 name: Mola Art Panama
+description: Beautiful Mola Art and Souvenirs

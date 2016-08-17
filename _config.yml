@@ -1,15 +1,15 @@
-typography_spectrum: 0.5203479579649866
+typography_spectrum: 0.6703884159214795
 color:
-  brandStrength: 0.9356295268516988
-  lightness: 0.4288823469541967
-  saturation: 0.9418812026269734
-  rhythmicContrast: 0.20127164805307984
+  brandStrength: 0.10016932291910052
+  lightness: 0.0456444991286844
+  saturation: 0.8994203109759837
+  rhythmicContrast: 0.44808978121727705
   brandColors:
-    - '#010101'
-    - '#8B7600'
-    - '#FEA800'
-    - '#006642'
-    - '#BDEBFB'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
 layout_spectrum: 0.7489483740646392
 author:
   name: Alejandro

@@ -1,16 +1,16 @@
-layout_spectrum: 0.6026159436441958
-typography_spectrum: 0.3006859051529318
+layout_spectrum: 0.6985389634501189
+typography_spectrum: 0.7358558850828558
 color:
-  brandStrength: 0.560756515013054
-  lightness: 0.3106982328463346
-  saturation: 0.7904703530948609
-  rhythmicContrast: 0.19301662407815456
+  brandStrength: 0.6596710353624076
+  lightness: 0.015927408589050174
+  saturation: 0.12745298817753792
+  rhythmicContrast: 0.7729364056140184
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 author:
   name: Alejandro
   email: ahepburn03@gmail.com
